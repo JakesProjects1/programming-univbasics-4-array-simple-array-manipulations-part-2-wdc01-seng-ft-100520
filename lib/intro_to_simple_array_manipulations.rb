@@ -17,3 +17,7 @@ end
 using_insert(@list_of_programming_languages, "Python")
 
 
+
+def using_uniq(array)
+  array.uniq
+end
