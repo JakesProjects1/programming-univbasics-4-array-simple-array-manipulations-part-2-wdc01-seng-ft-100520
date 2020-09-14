@@ -48,6 +48,8 @@ famous_robots = ["Johnny 5", "R2D2", "Robocop"]
 def using_delete_at(array, integer)
   array.delete_at(integer)
 end
+
+using_delete_at(famous_robots, 2)
   
   
   
