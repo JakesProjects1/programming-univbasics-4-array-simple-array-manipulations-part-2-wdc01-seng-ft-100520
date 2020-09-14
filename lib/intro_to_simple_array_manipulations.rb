@@ -24,8 +24,10 @@ end
 
 using_uniq(haircuts)
 
+instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
 
 def using_flatten(array)
-  
-  
+  array.flatten
 end
+
+using_flatten(instruments)
