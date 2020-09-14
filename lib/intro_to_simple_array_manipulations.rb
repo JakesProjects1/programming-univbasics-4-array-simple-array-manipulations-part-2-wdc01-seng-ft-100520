@@ -14,4 +14,4 @@ def using_insert(array, element)
   array.insert[4] = element
 end
 
-using_insert()
+using_insert(@list_of_programming_languages, "Python")
