@@ -31,3 +31,9 @@ def using_flatten(array)
 end
 
 using_flatten(instruments)
+
+
+
+def using_delete(array, string)
+  
+end
