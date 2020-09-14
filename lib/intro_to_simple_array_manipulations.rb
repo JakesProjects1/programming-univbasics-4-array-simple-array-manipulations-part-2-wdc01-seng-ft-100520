@@ -24,6 +24,8 @@ end
 
 using_uniq(haircuts)
 
+
 def using_flatten(array)
+  
   
 end
