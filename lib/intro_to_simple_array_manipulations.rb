@@ -7,15 +7,3 @@ end
 
 using_concat(@my_favorite_things, more_favs)
 
- @list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
-   @another_language = "Python"
- 
-def using_insert(array, element)
-  array.insert([4], element)
-end
-
-using_insert(@list_of_programming_languages, @another_language)
-  
-end 
-
-using_insert(@list_of_programming_languages, "Python")
