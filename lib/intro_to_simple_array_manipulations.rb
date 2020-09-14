@@ -11,8 +11,10 @@ using_concat(@my_favorite_things, more_favs)
    @another_language = "Python"
  
 def using_insert(array, element)
-  new_array =[]
-  
+  array.insert([4], element)
+end
+
+using_insert()
   
 end 
 
